@@ -1,5 +1,4 @@
 import {RouterModule, Routes} from "@angular/router";
-import {SlashComponent} from "./components/diceware-component";
 import {SplashComponent} from "./components/splash-component";
 
 
